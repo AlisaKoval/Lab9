@@ -1,0 +1,13 @@
+C:\Users\alisa\source\repos\Lab9\Lab9.5\Lab9.5\bin\Debug\netcoreapp3.1\Lab9.5.exe
+C:\Users\alisa\source\repos\Lab9\Lab9.5\Lab9.5\bin\Debug\netcoreapp3.1\Lab9.5.deps.json
+C:\Users\alisa\source\repos\Lab9\Lab9.5\Lab9.5\bin\Debug\netcoreapp3.1\Lab9.5.runtimeconfig.json
+C:\Users\alisa\source\repos\Lab9\Lab9.5\Lab9.5\bin\Debug\netcoreapp3.1\Lab9.5.runtimeconfig.dev.json
+C:\Users\alisa\source\repos\Lab9\Lab9.5\Lab9.5\bin\Debug\netcoreapp3.1\Lab9.5.dll
+C:\Users\alisa\source\repos\Lab9\Lab9.5\Lab9.5\bin\Debug\netcoreapp3.1\Lab9.5.pdb
+C:\Users\alisa\source\repos\Lab9\Lab9.5\Lab9.5\obj\Debug\netcoreapp3.1\Lab9.5.csprojAssemblyReference.cache
+C:\Users\alisa\source\repos\Lab9\Lab9.5\Lab9.5\obj\Debug\netcoreapp3.1\Lab9._5.Properties.Resources.resources
+C:\Users\alisa\source\repos\Lab9\Lab9.5\Lab9.5\obj\Debug\netcoreapp3.1\Lab9.5.csproj.GenerateResource.cache
+C:\Users\alisa\source\repos\Lab9\Lab9.5\Lab9.5\obj\Debug\netcoreapp3.1\Lab9.5.AssemblyInfoInputs.cache
+C:\Users\alisa\source\repos\Lab9\Lab9.5\Lab9.5\obj\Debug\netcoreapp3.1\Lab9.5.AssemblyInfo.cs
+C:\Users\alisa\source\repos\Lab9\Lab9.5\Lab9.5\obj\Debug\netcoreapp3.1\Lab9.5.dll
+C:\Users\alisa\source\repos\Lab9\Lab9.5\Lab9.5\obj\Debug\netcoreapp3.1\Lab9.5.pdb

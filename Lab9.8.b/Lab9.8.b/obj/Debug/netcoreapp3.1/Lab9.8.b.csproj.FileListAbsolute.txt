@@ -1,0 +1,11 @@
+C:\Users\alisa\source\repos\Lab9\Lab9.8.b\Lab9.8.b\obj\Debug\netcoreapp3.1\Lab9.8.b.csprojAssemblyReference.cache
+C:\Users\alisa\source\repos\Lab9\Lab9.8.b\Lab9.8.b\obj\Debug\netcoreapp3.1\Lab9.8.b.AssemblyInfoInputs.cache
+C:\Users\alisa\source\repos\Lab9\Lab9.8.b\Lab9.8.b\obj\Debug\netcoreapp3.1\Lab9.8.b.AssemblyInfo.cs
+C:\Users\alisa\source\repos\Lab9\Lab9.8.b\Lab9.8.b\bin\Debug\netcoreapp3.1\Lab9.8.b.exe
+C:\Users\alisa\source\repos\Lab9\Lab9.8.b\Lab9.8.b\bin\Debug\netcoreapp3.1\Lab9.8.b.deps.json
+C:\Users\alisa\source\repos\Lab9\Lab9.8.b\Lab9.8.b\bin\Debug\netcoreapp3.1\Lab9.8.b.runtimeconfig.json
+C:\Users\alisa\source\repos\Lab9\Lab9.8.b\Lab9.8.b\bin\Debug\netcoreapp3.1\Lab9.8.b.runtimeconfig.dev.json
+C:\Users\alisa\source\repos\Lab9\Lab9.8.b\Lab9.8.b\bin\Debug\netcoreapp3.1\Lab9.8.b.dll
+C:\Users\alisa\source\repos\Lab9\Lab9.8.b\Lab9.8.b\bin\Debug\netcoreapp3.1\Lab9.8.b.pdb
+C:\Users\alisa\source\repos\Lab9\Lab9.8.b\Lab9.8.b\obj\Debug\netcoreapp3.1\Lab9.8.b.dll
+C:\Users\alisa\source\repos\Lab9\Lab9.8.b\Lab9.8.b\obj\Debug\netcoreapp3.1\Lab9.8.b.pdb
